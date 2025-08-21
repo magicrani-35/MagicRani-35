@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Barbara, and I am diving into the brand new world of coding! I just discovered it a couple of months ago and so far I am still fascinated and intrigued. I look forward to collaborating and sharing my work! 
 
 <!--
 **magicrani-35/MagicRani-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
